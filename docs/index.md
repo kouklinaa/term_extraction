@@ -21,13 +21,15 @@
 
   <img align="center" src="Sauts_de_ligne.png" width="100" height="180" />
 
+- [x] Différents apostrophes
+
+  <img align="center" src="Apostrophes.png" width="100" height="180" />
+
 - [x] Caractères unicode 
   
   <img align="center" src="Char_unicode.png" width="100" height="350" />
   
-- [x] Différents apostrophes
 
-  <img align="center" src="Apostrophes.png" width="100" height="180" />
  
 - [ ] Mots collés 
 - [ ] Mots séparés
@@ -42,9 +44,7 @@
 
 **FCU**
 
-Stats :
-
-
+_Stats :_
 
 | BSV          | freq          |
 |--|--|
@@ -59,9 +59,14 @@ Stats :
 | unique        | 49            |       
 | top           | vigne         |   
 
+_freq by doc :
+<div>
+<a href="https://plotly.com/~anna.tch/10/?share_key=V9qrxrZ86xMYvTbYc2iMC1" target="_blank" title="Plot 10" style="display: block; text-align: center;"><img src="https://plotly.com/~anna.tch/10.png?share_key=V9qrxrZ86xMYvTbYc2iMC1" alt="Plot 10" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+</div>
 
 
-tf-idf :
+
+_tf-idf :_
 <div>
 <a href="https://plotly.com/~anna.tch/1/?share_key=Qa0fmI9ECGlSv6WVpjt7s9" target="_blank" title="fcu_terms" style="display: block; text-align: center;"><img src="https://plotly.com/~anna.tch/1.png?share_key=Qa0fmI9ECGlSv6WVpjt7s9" alt="fcu_terms" style="max-width: 100%;width: 500px;"  width="500" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 </div>
