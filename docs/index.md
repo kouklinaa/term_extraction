@@ -34,7 +34,7 @@
 - [ ] Mots collés 
   * Type de police
  
-   <img align="center" src="Oparcelles.png" width="100" height="180" />
+   <img align="center" src="Oparcellestxt.png" width="100" height="180" />
 
    pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/BSV-viti-RA-15_09-07-2019_cle01ba24.pdf](url)
  
