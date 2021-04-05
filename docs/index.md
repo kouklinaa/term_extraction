@@ -34,21 +34,12 @@
 - [ ] Mots collés 
   * Type de police
  
-   ```
-   
-   Oparcelles
-   
-   ```
+   <img align="center" src="0parcelles.png" width="100" height="180" />
 
    pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/BSV-viti-RA-15_09-07-2019_cle01ba24.pdf](url)
  
   * Sans raison particulière...
 
-   ```
-   
-   2dans 
-   
-   ```
   
    pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/BSV_12_-_2_juillet_2019_cle8252f7.pdf](url)
   
