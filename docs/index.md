@@ -32,6 +32,20 @@
 
  
 - [ ] Mots collés 
+  * Type de police 
+    <table>
+    <tr>
+      <td>token</td>
+      <td>source</td>
+    </tr>
+    <tr>
+      <td valign="top"><img src="0parcellestxt.png"></td>
+      <td valign="top"><img src="0parcellespdf.png"></td>
+    </tr>
+   </table>
+ 
+  * Sans raison particulière...
+  
 - [ ] Mots séparés
   * Césures
   * Types de police
