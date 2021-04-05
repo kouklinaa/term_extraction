@@ -32,17 +32,11 @@
 
  
 - [ ] Mots collés 
-  * Type de police 
-    <table>
-    <tr>
-      <td>token</td>
-      <td>source</td>
-    </tr>
-    <tr>
-      <td valign="top"><img src="Oparcellestxt.png"></td>
-      <td valign="top"><img src="Oparcellespdf.png"></td>
-    </tr>
-   </table>
+  * Type de police
+ 
+   <img align="center" src="Oparcellestxt.png" width="100" height="180" /> 
+
+   pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/BSV-viti-RA-15_09-07-2019_cle01ba24.pdf](url)
  
   * Sans raison particulière...
   
