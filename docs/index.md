@@ -25,8 +25,10 @@
   
   <img align="center" src="Char_unicode.png" width="100" height="350" />
   
-  
 - [x] Différents apostrophes
+
+ <img align="center" src="Apostrophes.png" width="100" height="180" />
+ 
 - [ ] Mots collés 
 - [ ] Mots séparés
   * Césures
