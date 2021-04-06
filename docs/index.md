@@ -48,12 +48,18 @@
 
   * Césures
   
-      <img align="center" src="tiret.png" width="100" height="180" />
+      <img align="center" src="police.png" width="100" height="180" />
       
       pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/alsace_vigne_no8_du_25-06-19_cle818164.pdf](url)
       
       
   * Types de police
+  
+      <img align="center" src="tiret.png" width="100" height="180" />
+      
+      pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/BSV_4_-_7_mai_2019_cle8db5ca.pdf](url)
+  
+  
   * Lettres espacées 
 
 
