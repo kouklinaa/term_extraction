@@ -109,9 +109,9 @@ _Tf-idf :_
 - [x] langue de prefLabel est corrigé en "fr"
 - [ ] créer des patrons type *"abricot, figue et pèche"*
 - [ ] trouver plus de matchs, par example :
-		*  BBCH01
-		*  EL35 (eichkorl en Lorenz)
-		*  A1 (baggiolini)
+	*  BBCH01
+	*  EL35 (eichkorl en Lorenz)
+	*  A1 (baggiolini)
 
 
 
