@@ -17,8 +17,6 @@
 
 **Problèmes rencontrés :** 
 
-- [x] Sauts de ligne
-
 
 - [x] Différents apostrophes
 
@@ -28,6 +26,9 @@
 
  
 - [ ] Mots collés 
+
+  * Sauts de ligne 
+ 
   * Type de police
  
       <img align="center" src="Oparcellestxt.png" width="100" height="150" />
