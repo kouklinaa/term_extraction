@@ -46,14 +46,14 @@
   
       <img align="center" src="police.png" width="100" height="150" />
       
-      > pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/alsace_vigne_no8_du_25-06-19_cle818164.pdf](url)
+      > pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/BSV_4_-_7_mai_2019_cle8db5ca.pdf](url)
       
       
   * Types de police
   
       <img align="center" src="tiret.png" width="100" height="150" />
       
-      > pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/BSV_4_-_7_mai_2019_cle8db5ca.pdf](url)
+      > pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/alsace_vigne_no8_du_25-06-19_cle818164.pdf](url)
   
   
   * Lettres espacées 
