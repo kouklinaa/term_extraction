@@ -113,7 +113,4 @@ _Tf-idf :_
 	*  A1 (baggiolini)
 
 
-### Script
 
-
-> [https://gitlab.irstea.fr/copain/d2kab/-/tree/testTermExtraction](url) et [https://github.com/kouklinaa/term_extraction](url)
