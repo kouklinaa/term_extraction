@@ -116,4 +116,4 @@ _Tf-idf :_
 ### Script
 
 
-> Disponible sur [https://gitlab.irstea.fr/copain/d2kab/-/tree/testTermExtraction](url) et [https://github.com/kouklinaa/term_extraction](url)
+> [https://gitlab.irstea.fr/copain/d2kab/-/tree/testTermExtraction](url) et [https://github.com/kouklinaa/term_extraction](url)
